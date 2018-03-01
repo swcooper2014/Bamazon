@@ -70,7 +70,7 @@ BamazonExecutive.js
     If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 
-Access Video of working app here: https://drive.google.com/file/d/1MSUyDC9Mt0l_lmrlZcSY_PGTooaoXjVX/view?usp=sharing
+Access Video of working app here: https://youtu.be/-NpI9mD6Au8
 
 Technologies used
     Node.js
@@ -82,4 +82,4 @@ Technologies used
 Prerequisites
    Node.js - Download the latest version of Node https://nodejs.org/en/
    
-   Create a MYSQL database called 'Bamazon', reference schema.sql
+   Create a MYSQL database called 'Bamazon'
