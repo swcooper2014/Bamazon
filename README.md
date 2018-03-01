@@ -70,7 +70,7 @@ BamazonExecutive.js
     If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
 
-Access Video of working app here: https://youtu.be/-NpI9mD6Au8
+Access Video of working app here: https://youtu.be/GnaOwnlefaE
 
 Technologies used
     Node.js
